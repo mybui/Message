@@ -1,2 +1,1 @@
-# message
-Message
+Simple message
